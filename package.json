@@ -10,6 +10,7 @@
     "extends": "preact"
   },
   "dependencies": {
+    "openai": "^4.24.1",
     "preact": "^10.13.0",
     "preact-iso": "^2.3.1"
   },
